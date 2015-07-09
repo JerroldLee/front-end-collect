@@ -87,6 +87,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[A List Apart](http://alistapart.com/)|★★★★★|★★★★★| # |可以改变世界的文章|
 |[hakim](http://hakim.se/)|★★★★★|★★★★★| HAKIM EL HATTAB|ccs3,javascript|
 |[DailyJS](http://dailyjs.com/) | ★★★★★ | ★★★★★ | # | javascript |
+|[javascripting](https://www.javascripting.com/) | ★★★★★ | ★★★★★ | # | javascript |
 
 ##### 活跃微博
 |ID |公司 | 简介 |
@@ -229,4 +230,3 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 ======
 
 本 repo 会 不断更新，感谢推荐和分享新资源的朋友。
-
